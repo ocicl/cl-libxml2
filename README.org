@@ -1,0 +1,10 @@
+* cl-libxml2
+
+High-level wrapper around libxml2 and libxslt libraries
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/archimag/cl-libxml2.git   |
+| commit  | 8d03110  |
+| systems | cl-libxml2 |
+|---------+-------------------------------------------|
+
